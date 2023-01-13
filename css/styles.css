@@ -1,0 +1,36 @@
+*{
+  margin: 0px;
+  border: 0px;
+}
+.outer{
+  width: 100%;
+  height: 100%;
+}
+.navmenu{
+  width: 100%;
+  height: 85px;
+  background-color: red;
+}
+.centre{
+  width: 100%;
+  height: 650px;
+  background-color: grey;
+}
+.about{
+  width: 100%;
+  height: 500px;
+  background-color: cyan;
+  display: flex;
+}
+#director{
+  height: 300px;
+  width: 300px;
+  margin:100px 10px 10px 300px;
+}
+.photo1{
+  background-color: yellow;
+}
+.Content{
+  margin:200px 10px 10px 10px;
+  font-size: 20px;
+}
